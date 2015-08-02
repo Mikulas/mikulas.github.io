@@ -3,6 +3,9 @@ layout: post
 title:  "Cronner jako generátor crontab.d"
 date:   2014-10-06 00:00:00
 categories: nette crontab cronner
+redirect_from:
+  - /cronner
+  - /cronner-jako-crontab-d/index.html
 ---
 
 Štěkyho Cronner mě nadchnul a vidím v něm výhody, nicméně hlavně u hostingů které mají špatně nastavitelný cron. Napadlo mě ale další řešení.

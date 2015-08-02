@@ -3,6 +3,8 @@ layout: post
 title:  "Verzování konfigu"
 date:   2014-09-18 00:00:00
 categories: nette config
+redirect_from:
+  - /verzovani-konfigu/index.html
 ---
 Při spolupráci s více lidmi často narážím na to, že někdo si upraví lokální konfiguraci a aplikace bez těch správných klíčů ostatním nefunguje. V lepším případě na to upozorní dobrá commit message, v tom horším se to programátor dozví z laděnky někdy v polovině rozběhnuté aplikace a špatně se to debuguje.
 
