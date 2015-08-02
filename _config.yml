@@ -1,0 +1,31 @@
+# Site settings
+title: Mikulas Dite
+email: mikulas.dite@gmail.com
+description: >
+  Programuji v [mangoWebu](http://www.mangoweb.cz), vedu IT tým
+  [Khanovy školy](https://khanovaskola.cz) o jednom člověku a zbylý
+  čas vyplňuji studiem na FITu.
+baseurl: ""
+url: "https://mikulas.github.io"
+twitter_username: MikulasDite
+github_username: Mikulas
+timezone: UTC
+
+permalink: /:title.html
+paginate_path: /page:num
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..4
+  smart_quotes: bsquo,lsquo,bdquo,ldquo
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
