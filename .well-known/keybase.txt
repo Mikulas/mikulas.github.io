@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mikulas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mikulas.github.io
+  * I am mikulas (https://keybase.io/mikulas) on keybase.
+  * I have a public key with fingerprint 2153 10CC D48E 631A 5A82  7922 4D93 D382 6A09 8197
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010133825f34f7aa9b9cffe7f1ce60c450359c5f26158bab453b2812d38d5b811bf10a",
+            "fingerprint": "215310ccd48e631a5a8279224d93d3826a098197",
+            "host": "keybase.io",
+            "key_id": "4d93d3826a098197",
+            "kid": "010133825f34f7aa9b9cffe7f1ce60c450359c5f26158bab453b2812d38d5b811bf10a",
+            "uid": "f6d3bb7480705129de0aa38d859edd00",
+            "username": "mikulas"
+        },
+        "service": {
+            "hostname": "mikulas.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458070016,
+    "expire_in": 157680000,
+    "prev": "d25ba00c04b90bc4b4fc7d0697e4b62e5af605af369c18bfdf0dec60c641084c",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIlAnicrZJbSFRBHMZ38xLa1UzCbsIJiWiTmXM/QiUUFqRl0F1jO3M5u0fdPds5
+Z7etsHLrIeyCdidCqAjLhIr0oeyiYQT6ULj0EkQUBAWGZGEYdJlj9RD02DzMMDO/
+75vv/2f6pmT4cv2VJ9Op2pzGs/6B3gtx36Z3yLeXQxbZzZXu5ero+ELrCXXcYJ1J
+uFIOQAAFQeUlQxANRdc1pGHDoIoBMZUBFiUgSBqWDF6Gkop0JEoC4lXIE0ElElIh
+RAYEOhfgDDMaonbMNqMus+WhJECAMRFVKgtQl3SVVzSeF4kmMCkv60BToaYwYdhy
+PAULh3SHlpgWO2Ob4Hi8f/D/OXd83M6QiYCQIqpAARLkNUKBrjNUlTRKCAAe6FA7
+qkcooyNmXbxed7iGAMcOEyamXl+9Qv4GSkKmG46jXzXFbMu1sFXPrsOuG3NKPbm7
+O+bxuygK/nYKIjNKWC+ZIkFtx7SiXClkJHZNzxqKkpcRQDnA0WTMtGnQ9AhJkVXA
+hvcOTTBLwktIBwADEWkAYRGJBlYIkDWFikjmqaQbMmCTIGsYqsggBiAUs9bJIgSq
+iDmvtp1Ri3krLKceYp6OGYrqbtymXMOjnppMnz/Xl501wftkvtyc6X++3j088ce+
+VXTSsZsLr51qaT8c3pFOcVkTyg++Xrmlb2wk2ZNfMLBEejaYvkhnFXFDlUurOi5V
+fPpcdDy9tvhBeD/8sufC5v7TbY/npbrES+caso8tTjkfNjSv7TySnDmWXePf0i1+
+z8+bfT4vgc9MK3wfqb58Y+TNg+2Fwwtuy/7m9WXXW9pvDT6fs3Ley9sRY2P28FDF
+roz45pLHVVfelh0ZXdfy8UCQlvcu7WqVE5P5/jXfhMa2woHGgvkvQlPv3wVXB4uH
+TmzNfFc7sc0cXfGErK5uDzZlVHxdfnRF68zW7gg+sGhJ5zJtRuy00wGam84/TdYV
+PMx5P/fQtkBT2Y1XC030RLxj/wSouDqG
+=rbui
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikulas
+
+==================================================================
